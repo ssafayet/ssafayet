@@ -10,5 +10,9 @@ A few recent builds:
 - [agent-ps](https://github.com/ssafayet/agent-ps) — find and clean up processes left behind by coding agents
 - [GeekMagic Custom Apps](https://github.com/ssafayet/geekmagic-smalltv-custom-apps) — useful information on a tiny screen
 - [humanize-json](https://github.com/ssafayet/humanize-json) — compact, readable JSON for humans and LLMs
+- [Crosspoint Indic](https://github.com/ssafayet/crosspoint-reader) - bringing Indic language support in Crosspoint Reader
 
-I like simple software, honest documentation, and shipping something useful.
+Some projects I host for the community:
+- [Slides2PDF](https://slides2pdf.com) - a very popular free Canva/Google Slides to PDF converter.
+- [RongKori](https://rongkori.ink) - a Bangla color book generator for my daughter - Niyara!
+- [RUAP - Air Quality Monitor](https://app.airgradient.com/display/EVXoEWVqPg/classic) - hosted an AirGradient Air Quality Monitor
